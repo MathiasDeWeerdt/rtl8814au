@@ -4,10 +4,10 @@ Drivers for the rtl8814au chipset wireless adapters
 
 # build & install
 ```
-$ git clone https://github.com/aircrack-ng/rtl8814au.git
-$ cd rtl8814au
-$ make
-$ make install
+git clone https://github.com/MathiasDeWeerdt/rtl8814au.git
+cd rtl8814au
+make
+make install
 ```
 
 # TODO
