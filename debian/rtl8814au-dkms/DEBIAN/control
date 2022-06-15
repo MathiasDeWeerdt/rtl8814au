@@ -1,0 +1,16 @@
+Package: rtl8814au-dkms
+Source: rtl8814au
+Version: 5.8.5.1
+Architecture: all
+Maintainer: jimmy <jimmy@jimmy-alpha>
+Installed-Size: 13226
+Depends: debconf (>= 0.5) | debconf-2.0, dkms (>= 2.1.0.0), linux-libc-dev, libc6-dev
+Section: kernel
+Priority: optional
+Homepage: http://www.realtek.com.tw/
+Description: dkms source for the rtl8814au network driver
+ rtl8814au is the Linux device driver released for the RealTek RTL8814AU WiFi
+ controllers with USB interface.
+ .
+ This package provides the dkms source code for the rtl8814au kernel module.
+ Kernel source or headers are required to compile these modules.

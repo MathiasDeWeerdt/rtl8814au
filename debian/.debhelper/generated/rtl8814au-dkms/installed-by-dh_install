@@ -1,0 +1,7 @@
+./core
+./hal
+./include
+./Kconfig
+./Makefile
+./os_dep
+./platform
